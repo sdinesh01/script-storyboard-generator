@@ -9,5 +9,8 @@ Task challenges:
 2. Composing prompts for AI generators that maximize efficiency and accuracy (using MidJourney, Stable Diffusion, etc.)
 3. (Optional) Analyze scripts to select a genre-appropriate illustration style for storyboard generation
 
-Initial challenges: 
-1. 
+Initial coding challenges: 
+1. Creating a corpus of movie scripts (usually available online in PDF formatting)
+2. Identifying key elements of a screenplay (scene headings, action descriptions, shots/transitions) 
+3. Standardizing text formatting across different documents, varied writing styles, and genres
+3. Associating characters with actions, characters with other characters, and characters in relation to the setting
