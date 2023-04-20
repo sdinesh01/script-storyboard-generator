@@ -1,0 +1,170 @@
+scene_heading: INT. HEADQUARTERS TENT  NIGHT
+
+text:  CLOSE SLOT  the hand of General Nikolas Pherides  The
+               General's hand spasmodically opens and closes around the hilt
+               of a sword which has been struck into the earth, point
+               foremost as a support.
+               The CAMERA PULLS BACK to reveal his naked forearm and from
+               this forearm gush gouts of arterial blood. The blood falls
+               into an enamel basin,
+               Over this CLOSE SHOT VOICES can be heard.
+
+
+speaker_heading:  FIRST OFFICER'S VOICE
+
+dialog:  Dead on the field, four thousand
+                         five hundred seventytwo of the
+                         enemy  three thousand of our own
+                         men. Burial parties are already at
+                         work. We are assigning men from
+                         every company to clear the field,
+
+speaker_heading:   DR. DROSSOS' VOICE
+
+dialog: (cutting in)
+                         Tell them to pour lime in the
+                         graves.
+
+text: The CAMERA IS DRAWING BACK to reveal General Nikolas
+               Pherides, the commander of a Greek army corps, seated behind
+               a small table  His left hand is outstretched to the
+               barbersurgeon who kneels at his side and is engaged in
+               bleeding him,
+
+speaker_heading: FIRST OFFICER'S VOICE
+
+dialog:  (same tone)
+                         Enemy casualties estimated as nine
+                         thousand  prisoners five
+                         hundred.
+
+text: The CAMERA CONTINUES DRAWING BACK to disclose the entire mise
+               on scene. Four Greek officers stand before the General.  Two 
+               are great burly line officers; their uniform tunics open at
+               the neck, their caps on the back of their heads and their
+               great sabres trailing along the ground. The third is a
+               medical officer, Dr. Alexander Drossos. He is excessively
+               neat and dandified in his uniform, with pincenez glasses set
+               perfectly straight on the bridge of his nose. The fourth is
+               an Adjutant, military enough in dress and bearing but with a
+               great brigand's mustache and merry black eyes. At the
+               General's right hand sits a young American, Oliver Davis, a
+               reporter for the New York Morning Globe. He is dressed in the
+               semiuniform outfit which Richard Harding Davis popularized:
+               breeches, leather leggings and a khaki tunic of military cut.
+               While the rest talk, he is busily scribbling on a pad,
+               without paying the least attention to any of then.
+               The second officer breaks in on the first officer's report,
+               unable to restrain his enthusiasm longer
+
+speaker_heading: SECOND OFFICER
+
+dialog:  A greet battle  a great victory!
+
+text:                MED. CLOSE SHOT  General Pherides and Dr  Drossos.
+
+speaker_heading:    DR. DROSSOS
+
+dialog:   (dryly)
+                         To be sure . Enough blood spilled
+                         to satisfy anyone --
+                             (turning to the General)
+                         except General Nikolas Pherides.
+                         You're letting that fool drain your
+                         life away.
+
+speaker_heading:  GENERAL
+
+dialog:    (looking up)
+                         Your father always prescribed it,
+                         and I'm alive to tell you so.
+
+text: FULL SHOT  the entire party inside the tent. In the
+               meantime, the barber-surgeon has finished his work and is
+               binding up the General's arm. He cinches the bandage tight. 
+               The doctor shrugs.
+
+speaker_heading:   DR. DROSSOS
+
+dialog: At least get a decent night's
+                         sleep.
+                             (smiling)
+                         Consider it a prescription from my
+                         father..
+
+text: The General nods. The three officers and the Adjutant leave,
+               pausing at the tent flap to call back their "good nights".  
+               Hardly have they gone when the General rises from his chair
+               and begins to pace the narrow floor of the tent; his shadow
+               walking with him on the side walls and ceiling. The young
+               correspondent looks up and watches him. Finally, he speaks.
+               MED. TWO SHOT - Oliver and the General.
+
+speaker_heading: OLIVER
+
+dialog:           Why not Take the doctor's advice?
+                         You're the hero of the battle of
+                         Corphon.
+
+speaker_heading:  GENERAL
+
+dialog: Hero?
+
+speaker_heading:  OLIVER
+
+dialog:  (insistently)
+                         In the New York Morning Globe,
+                         the man who wins victory is always
+                         a hero. -
+
+text:  The General puts his hand on Oliver's arm.
+
+speaker_heading:  GENERAL
+
+dialog: Listen 
+
+text: Both men are silent in an attitude of listening - from
+               outside can be heard distantly the screaming and groaning of
+               the wounded.
+
+speaker_heading:  GENERAL
+
+dialog:  You know that sound, Oliver?
+
+speaker_heading:  OLIVER
+
+dialog: I heard the same sound at
+                         Ladysmith, at Nukden, Port
+                         Arthur.  What do you expect
+                         after a battle?
+
+speaker_heading:  GENERAL
+
+dialog:                          You were at those battles as a
+                         spectator   I wonder if you can
+                         think what that sound might mean to
+                         me  those men out there  dead
+                         or dying  by my order -- because
+                         I willed it so.
+
+text: CLOSE TWO SHOT  Oliver and the General. Oliver holds up the
+               lantern and tries to peer into the darkness. The General
+               starts off and Oliver falls into step behind him. They pass a
+               sentry who salutes. Only the lighted lantern can be seen as
+               they go into the darkness.
+
+scene_heading: EXT. BATTLEFIELD - NIGHT
+
+text:  The CAMERA in SET UP TO SHOOT PAST the heaped-up dead. The
+               only illumination is the lantern which Oliver carries, he and
+               the General pick their way between the dead.
+               ANOTHER ASPECT of the battlefield - an ox cart loaded with
+               the dead, some of them tied to the rear axle by their naked
+               legs. Two men, in the hooded coats worn by the infantry of
+               the Balkan allies, are busy loading the cart. They look up,
+               astonished, as the General and Oliver pass.
+               STILL ANOTHER ASPECT of the battlefield  the General pauses
+               as if to search out his way and then starts off determinedly
+               toward the left. Oliver takes two long strides to catch up
+               with him. The CAMERA DOLLIES WITH them. Oliver lifts the
+               lantern and gestures outward with it.
