@@ -1,0 +1,367 @@
+scene_heading: INT. SURGICAL CHAMBER - NIGHT
+
+text: ...surgical chamber. And watching the screens is a...
+          ...chimp, strapped to an operating table, with its skull
+          dissected open, webbed in wires and monitoring devices,
+          muzzled with a transparent guard. Alive.                        
+          Behind the surgical chamber, through the wide doorframe, we
+          can see a larger laboratory beyond.
+
+scene_heading: INT. BRIGHT CORRIDOR - NIGHT
+
+text: A group of black-clad ALF Activists, all wearing balaclavas,
+          move down a corridor. They carry various gear - bag, bolt
+          cutters.       
+          As they move, one Activist reaches up to a security camera
+          and sprays it black with an aerosol paint can.
+
+scene_heading: INT. LABORATORY - NIGHT
+
+text: The Activists enter the laboratory.
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: Fucking hell...
+
+text: The Chief Activist takes his camera off his shoulder and
+          starts taking photos.
+          The room is huge and long, and darkened except for specific
+          pools of light. Partially illuminated are rows of cages with
+          clear perspex doors. They run down either side of the room.
+          In the cages are chimpanzees.
+          Most are in a state of rabid agitation, banging and clawing
+          against the perspex, baring teeth through foam-flecked
+          mouths.        
+          They reach the far end of the lab, where on a huge steel
+          operating table they see the dissected chimp.
+
+speaker_heading: FEMALE ACTIVIST
+
+dialog: Oh God...
+
+text: The dissected chimp's eyes flick to the Activists. Blood
+          wells from around the exposed brain tissue.
+          Tears starts to roll down the Female Activist's cheeks.
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: (to Female Activist)
+           Keep your shit together. If we're
+           going to get them out of here...
+
+text:  The Finnish Activist is checking the perspex cages.
+
+speaker_heading: FINNISH ACTIVIST
+
+dialog: I can pop these, no problem.
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: So get to it.
+
+text: The Finnish Activist raises his crowbar and sticks it around
+          the edge of one of the doors - about to prise it open.
+          At the moment, the doors to the laboratory bang open.
+          The Activists all turn. Standing at the entrance is the
+          Scientist.                         
+          A pause. The Scientist jumps to a telephone handset on the
+          wall and shouts into the receiver.
+
+speaker_heading: SCIENTIST
+
+dialog: Security! We have a break-in! Get
+           to sector...
+
+text: A hand slams down the disconnect button.
+
+speaker_heading: SCIENTIST
+
+dialog: ...nine.
+
+text: The Chief Activist plucks the receiver from the Scientist's
+          hands, and then rips the telephone from the wall.                        
+          A beat.
+
+speaker_heading: SCIENTIST
+
+dialog: I know who you are, I know what you
+           think you're doing, but you have to
+           listen to me. You can't release
+           these animals.
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: If you don't want to get hurt, shut
+           your mouth, and don't move a
+           fucking muscle.
+
+speaker_heading: SCIENTIST
+
+dialog: (BLURTS)
+           The chimps are infected!
+
+text: The Activists hesitate, exchanging a glance.
+
+speaker_heading: SCIENTIST
+
+dialog:            (continuing; stumbling,FLUSTERED)
+           These animals are highly
+           contagious. They've been given an
+           inhibitor.
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: Infected with what?
+
+speaker_heading: SCIENTIST
+
+dialog: Chemically restricted, locked down
+           to a... a single impulse that...
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: Infected with what?
+
+text: The Scientist hesitates before answering.
+
+speaker_heading: SCIENTIST
+
+dialog: Rage.
+
+text: Behind the Activists, the bank of monitors show the faces of
+          the machete-wielding crowd.
+
+speaker_heading: SCIENTIST
+
+dialog: (desperately trying to  EXPLAIN)
+           In order to cure, you must first
+           understand. Just imagine: to have
+           power over all the things we feel
+           we can't control. Anger,
+           violence...
+
+speaker_heading: FINNISH ACTIVIST
+
+dialog: What the fuck is he talking about?
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: We don't have time for this shit!
+           Get the cages open!
+
+speaker_heading: SCIENTIST
+
+dialog: No!
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog:            We're going, you sick bastard, and
+           we're taking your torture victims
+           with us.
+
+speaker_heading: SCIENTIST
+
+dialog: NO! You must listen! The animals
+           are contagious! The infection is in
+           their blood and saliva! One bite
+           and...
+
+speaker_heading: FEMALE ACTIVIST
+
+dialog: They won't bite me.
+
+text:  The Female Activist crouches down to face the wild eyes of
+          the infected chimp behind the perspex.
+
+speaker_heading: SCIENTIST
+
+dialog: STOP! You have no idea!
+
+text:  The Scientist makes a desperate lunge towards her, but the
+          Chief Activist grabs him.
+
+speaker_heading: FEMALE ACTIVIST
+
+dialog: Good boy. You don't want to bite
+           me, do you?
+
+text: The Female Activist gives a final benign smile, then the
+          Finnish Activist pops open the door.
+
+speaker_heading: SCIENTIST
+
+dialog: NO!
+
+text: Like a bullet from a gun, the infected chimp leaps out at the
+          Female Activist - and sinks its teeth into her neck. She
+          reels back as the chimp claws and bites with extraordinary
+          viciousness.   
+          At the same moment, a deafening alarm begins to sound.
+
+speaker_heading: FEMALE ACTIVIST
+
+dialog: (SHRIEKING)
+           Get it off! Get if off!
+
+text: The Finnish Activist rips the ape off and throws it on to the
+          floor. The infected chimp immediately bites into the man's
+          leg. He yells with pain, and tries to kick it off.
+          Behind him, the Female Activist has started to scream. She
+          doubles up, clutching the side of her head.
+
+speaker_heading: FEMALE ACTIVIST
+
+dialog: I'm burning! Jesus! Help me!
+
+speaker_heading: SCIENTIST
+
+dialog: We have to kill her!
+
+speaker_heading: FEMALE ACTIVIST
+
+dialog: I'm burning! I'm burning!
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: What's...
+
+speaker_heading: SCIENTIST
+
+dialog: We have to kill her NOW!
+
+text: Meanwhile, the Female Activist's cries have become an
+          unwavering howl of pain - and she is joined by the Finnish
+          Activist, whose hands have also flown to the side of his
+          head, gripping his temples as if trying to keep his skull
+          from exploding.
+
+speaker_heading: CHIEF ACTIVIST
+
+dialog: What's wrong with them?
+
+text: The Scientist grabs a desk-lamp base and starts running
+          towards the screaming Female Activist...
+          ...who has ripped off her balaclava - revealing her face -
+          the face of an Infected.
+          She turns to the Scientist.
+
+speaker_heading: SCIENTIST
+
+dialog: Oh God.
+
+text: She leaps at him. He screams as they go tumbling to the
+          ground.
+          The Chief Activist watches in immobile horror as she attacks
+          the Scientist with amazing ferocity.
+
+scene_heading: INT. CORRIDOR - NIGHT
+
+text: Another ACTIVIST makes his way down the corridor towards the
+          lab.
+
+speaker_heading: speaker_heading: 
+
+dialog: (HISSES)
+           Terry? Jemma?
+
+text: No answer.
+
+speaker_heading: ACTIVIST
+
+dialog: Mika? Where are you?
+
+text: He reaches the door to the lab, which is closed - and...
+          ...as he opens it, we realize the door is also soundproofed.
+          A wall of screaming hits him.
+          He stands in the doorway - stunned by the noise, and then the
+          sight.         
+          Blood, death, and his colleagues, all Infected.
+
+speaker_heading: ACTIVIST
+
+dialog:            Bloody hell.                         
+          The Infected rush him.                         
+
+scene_heading: INT. HOSPITAL ROOM - LATE AFTERNOON
+
+text: Close up of Jim, a young man in his twenties, wearing pale
+          green hospital pyjamas. He has a month's beard, is
+          dishevelled, and asleep.
+          We pull back to see that Jim is lying on a hospital bed, in a
+          private room. Connected to his arms are multiple drips, a
+          full row of four or five on each side of his bed. Most of the
+          bags are empty.
+          Jim's eyes open.
+          He looks around with an expression of confusion. Then he sits
+          up. He is weak, but he swings his legs off the bed and
+          stands. The attached drips are pulled with him and clatter to
+          the floor.
+          Jim winces, and pulls the taped needles from his arm.
+
+speaker_heading: JIM
+
+dialog: Ow...
+
+text: His voice is hoarse, his mouth dry. Massaging his throat, he
+          walks to the door.
+
+scene_heading: INT. COMA WARD - LATE AFTERNOON
+
+text: The door to Jim's hospital room is locked. The key is on the
+          floor. He picks it up and opens the door.
+          Jim exits into a corridor.
+          At the far end, a sign read: COMA WARD. There is no sign of
+          life or movement.
+          Jim walks down the corridor. One of the doors is half-open.
+          From inside, there is the sound of buzzing flies.
+
+scene_heading: INT. HOSPITAL WARDS - LATE AFTERNOON
+
+text: Jim moves as quickly as he can through the hospital, still
+          weak, but now driven by adrenaline.
+          All the wards and corridors are deserted. Medical notes and
+          equipment lie strewn over the floors, trolleys are upended,
+          glass partition doors are smashed. In a couple of places,
+          splashes of dried blood arc up the walls.
+          He reaches E. On one wall is a row of public pay phones.
+          He lifts a receiver, and the line is dead. He goes down the
+          line, trying them all.
+          In the corner of the E reception is a smashed soft-drinks
+          machine, with a few cans collected at the base.
+          Jim grabs one, rips off the ring-pull and downs it in one go.
+          Then he grabs another, and heads for the main doors.
+
+scene_heading: EXT. HOSPITAL - LATE AFTERNOON
+
+text: Jim exits and walks out into the bright daylight of the
+          forecourt. The camera begins to pull away from him.
+
+speaker_heading: JIM
+
+dialog: Hello?
+
+text:           Aside from a quiet rush of wind, there is silence. No
+          traffic, no engines, no movement. Not even birdsong.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
