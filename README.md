@@ -37,7 +37,7 @@ Column Descriptions:
 
 Title: **movie_scenes_by_header.csv** <br>
 Description: This dataset contains the scripts for _28 Days Later, Isle of the Dead, Jurassic Park, Pan’s Labyrinth,_ and _Whiplash_. <br>
-Data Source: I used five manually encoded scripts from Kaggle for my analysis. I went with manual encoding to minimize the effect of machine learning miscodings on my overall project. Human mislabeling is also possible since this dataset was user created. I used regex statements to split headings and their respective text. <br>
+Data Source: I used five manually encoded scripts from [Kaggle](https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus) for my analysis. I went with manual encoding to minimize the effect of machine learning miscodings on my overall project. Human mislabeling is also possible since this dataset was user created. I used regex statements to split headings and their respective text. <br>
 Date Created: March 10, 2023 <br>
 Last Modified: April 20, 2023<br>
 
@@ -57,7 +57,7 @@ Column Descriptions:
 
 Title: **movie_scenes.csv** <br>
 Description: This dataset contains the scripts for _28 Days Later, Isle of the Dead, Jurassic Park, Pan’s Labyrinth,_ and _Whiplash_. <br>
-Data Source: I used five manually encoded scripts from Kaggle for my analysis. I went with manual encoding to minimize the effect of machine learning miscodings on my overall project. Human mislabeling is also possible since this dataset was user created. Data was created by using regex statements to split scripts into a dataframe, and then the dataframes for all scripts were concatenated. <br>
+Data Source: I used five manually encoded scripts from [Kaggle](https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus) for my analysis. I went with manual encoding to minimize the effect of machine learning miscodings on my overall project. Human mislabeling is also possible since this dataset was user created. Data was created by using regex statements to split scripts into a dataframe, and then the dataframes for all scripts were concatenated. <br>
 Date Created: March 10, 2023 <br>
 Last Modified: April 20, 2023<br>
 
