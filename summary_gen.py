@@ -17,6 +17,8 @@ def GetSceneComponents(df, scriptID, sceneID: int):
 
   return extracted
 
+## both models currently hardcode HuggingFace models -- input params to be adjusted
+
 # summarize_text pipeline for dataframe with scenes split by scene components
 def summarize_text(df, scriptID, sceneID, min_output=40, max_output=100, max_length=80):
     """Take a string of text and generate a summary"""
