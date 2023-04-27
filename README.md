@@ -23,7 +23,7 @@ Data Source: I used five manually encoded scripts from [Kaggle](https://www.kagg
 Date Created: March 10, 2023 <br>
 Last Modified: April 20, 2023<br>
 
-Size: 85.6 KB —  6 columns, 543 entries<br>
+Size: 85.6 KB —  6 columns, 580 entries<br>
 Format: Comma-separated values <br>
 Encoding: UTF-8 <br>
 
