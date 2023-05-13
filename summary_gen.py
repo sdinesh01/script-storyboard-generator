@@ -1,70 +1,54 @@
 # imports
+
 import pandas as pd
-## transfomer models
+import numpy as np
+import random
 import transformers
-from transfomers import pipeline
+import torch
+from transformers import pipeline
+from textsum.summarize import Summarizer
+from diffusers import StableDiffusionPipeline
 
 
-def GetSceneComponents(df, scriptID, sceneID: int): 
-  '''
-  Get all of the rows from a dataframe for a requested scene
-  Params: 
-    df: input dataframe to extract data from
-    scriptID: id corresponding to the script
-    sceneID: id corresponding to the scene in a movie
-  '''
-  extracted = df.loc[(df['scriptID'] == scriptID) & (df['sceneID'] == sceneID)]
+def load_data():
+        df = pd.read_csv(URL, index_col=[0])
+        return df
 
-  return extracted
+    def GetSceneComponents(option=option):
+        '''
+        Get all of the rows for a scene
+        Params: 
+            option: input of the movie selected by user
+        '''
+        df = load_data()
+        movie_id = {"Pan's Labryinth":0, 'Whiplash':1, 
+                    '28 Days Later':2, 'Jurassic Park':3, 'Isle of the Dead':4}
+        script_id = movie_id.get(str(option))
+        parts_by_movie = df.loc[(df['scriptID'] == int(script_id))]
+        scenes_per_script = len(parts_by_movie['sceneID'].unique())
+        scene_id =random.randint(0,scenes_per_script)
+        script_components = parts_by_movie.loc[(df['sceneID'] == scene_id)]
 
-## both models currently hardcode HuggingFace models -- input params to be adjusted
+        return script_components, scene_id
 
-# summarize_text pipeline for dataframe with scenes split by scene components
-def summarize_text(df, scriptID, sceneID, min_output=40, max_output=100, max_length=80):
-    """Take a string of text and generate a summary"""
+    def summarize_text(min_output=40, max_output=77, max_length=80):
+        """Take a string of text and generate a summary"""
 
-    def GetSceneComponents(): 
-      '''
-      Get all of the rows for a scene
-      Params: 
-        df: input dataframe to extract data from
-        scriptID: id corresponding to the script
-        sceneID: id corresponding to the scene in a movie
-      '''
-      extracted = df.loc[(df['scriptID'] == scriptID) & (df['sceneID'] == sceneID)]
-      return extracted
-    
-    subset = GetSceneComponents()
-    summarizer = pipeline('summarization','pszemraj/long-t5-tglobal-base-16384-book-summary')
-    summarized_scene = []
-    for i, row in enumerate(subset): 
-      text = df['text'][i]
-      result = summarizer(text)
-      summarized_scene.append(result)
+        text_to_summarize, scene_id = GetSceneComponents()
 
-    return summarized_scene
+        def create_long_text():
+            "Take all components from a scene and join into a single long string for summarization"
 
-# summarize_text pipeline for dataframe with a single scene per row
-def summarize_text1(df, scriptID, sceneID, min_output=40, max_output=100, max_length=80):
-    """Take a string of text and generate a summary"""
+            list_of_strings = []
+            for i, row in enumerate(text_to_summarize['text']): 
+                list_of_strings.append(row)
 
-    def GetSceneComponents(): 
-      '''
-      Get all of the rows for a scene
-      Params: 
-        df: input dataframe to extract data from
-        scriptID: id corresponding to the script
-        sceneID: id corresponding to the scene in a movie
-      '''
-      extracted = df.loc[(df['scriptID'] == scriptID) & (df['sceneID'] == sceneID)]
-      return extracted
-    
-    subset = GetSceneComponents()
-    summarizer = pipeline('summarization','pszemraj/long-t5-tglobal-base-16384-book-summary')
-    summarized_scene = []
-    
-    text = subset['text'][0]
-    result = summarizer(text)
-    summarized_scene.append(result)
+            long_text = '.'.join(list_of_strings)
+            return long_text
 
-    return summarized_scene
+        long_text = create_long_text()  
+        summarizer = Summarizer(model_name_or_path="pszemraj/long-t5-tglobal-base-16384-book-summary") 
+        out_str = summarizer.summarize_string(long_text)
+        print(f"summary: {out_str}")
+
+        return out_str, scene_id, long_text
