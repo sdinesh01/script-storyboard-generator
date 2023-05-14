@@ -163,7 +163,8 @@ if __name__ == '__main__':
 
         return out_str, scene_id, long_text
 
-    prompt, sceneID, original_text = summarize_text()
+    out_str, sceneID, original_text = summarize_text()
+    prompt = 'Generate a storyboard of: ' + out_str 
 
     # Handle if the text box does not have any content in
     if len(prompt) > 0:
@@ -172,7 +173,7 @@ if __name__ == '__main__':
         """)
         print(original_text)
         st.markdown(f"""
-        Storyboard this scene: {prompt}
+        Stable Diffusion Prompt: {prompt}
         """)
         print(prompt)
         # Create a spinner to show the image is being generated
