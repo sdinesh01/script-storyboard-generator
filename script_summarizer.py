@@ -72,9 +72,7 @@ class StableDiffusionLoader:
             self.pretrain_pipe, 
             revision="fp16", 
             torch_dtype=torch.float32, 
-            use_auth_token=use_token,
-            num_inference_steps=20,
-            batch_size = 1
+            use_auth_token=use_token
             )
         #pipe = pipe.to(self.device)
         #with autocast(self.device):
