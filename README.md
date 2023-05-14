@@ -16,15 +16,14 @@ Initial coding challenges:
 3. Associating characters with actions, characters with other characters, and characters in relation to the setting
 
 ## Run the streamlit app locally
-In a virtual environment, locate `requirements.txt` and `script_summarizer.py` are in the directory.
+In a virtual environment, locate `requirements.txt` and `script_summarizer.py` in the directory.
 Run the following:
 ```
 pip install -r requirements.txt
 python script_summarizer.py
 streamlit run [user folder]/script_summarizer.py
 ```
-**NOTE**: If a GPU is available, uncomment lines 50, 51, 79, 80 in `script_summarizer.py` to increase processing speed. Without GPU, the Stable Diffusion API will take 25-30 minutes to run on a machine with 16 GB RAM. 
-
+**NOTE**: If a GPU is available, uncomment lines 50, 51, 79, 80 in `script_summarizer.py` to increase processing speed. Without GPU, the Stable Diffusion model will take 25-30 minutes to run on a machine with 16 GB RAM. 
 
 ## Dataset documentation
 
