@@ -9,6 +9,8 @@ Task challenges:
 2. Compose prompts for AI generators that maximize efficiency and accuracy (using MidJourney, Stable Diffusion, etc.)
 3. Build a short application with a summarization + Stable Diffusion model pipeline
 
+**Files:** script_summarizer.py (Streamlit app), project_report.pdf (written report with project methodology, results, and discussion), summary_gen.py (pipeline for summarization, can be run without Streamlit), data_cleaning.py (original scripts for data cleaning).
+
 ## Run the streamlit app locally
 In a virtual environment, locate `requirements.txt` and `script_summarizer.py` in the directory.
 Run the following:
